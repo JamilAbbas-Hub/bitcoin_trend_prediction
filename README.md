@@ -1,6 +1,6 @@
 # README
 
-* LAST UPDATED: 2021-05-10
+* LAST UPDATED: 2021-05-14
 * AUTHOR: Jamil Abbas
 * REPOSITORY: bitcoin_trend_prediction
 
