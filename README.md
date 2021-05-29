@@ -6,7 +6,7 @@
 
 ## Files
 ### Notebook
-- [Bitcoin.ipynb]()
+- [Bitcoin.ipynb](https://github.com/JamilAbbas-Hub/bitcoin_trend_prediction/blob/master/Bitcoin.ipynb)
 
 ### Packages Needed
 - [numpy](https://numpy.org/)
